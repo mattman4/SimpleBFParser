@@ -7,3 +7,4 @@ Simple [BF](https://en.wikipedia.org/wiki/Brainfuck) parser in Haskell
 - The output will be printed first during the exection, then after it has done the state of the tape will show in the format `[left values] value under data pointer [right values]`
 
 ## Demo
+![](img/helloWorld.png)
